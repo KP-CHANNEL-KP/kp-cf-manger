@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/wrangler/config-schema.json",
-  "name": "kp22",
+  "name": "kp-cf-manger",
   "main": "worker.js",
   "compatibility_date": "2024-01-01" 
 }
